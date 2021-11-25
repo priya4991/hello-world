@@ -1,4 +1,4 @@
-# hello-world
+# Test scripts
 test repository
 
-this is a test repository to learn GitHub.
+Test repo for scripts
